@@ -241,6 +241,7 @@
 				TargetAttributes = {
 					214B901C1E8DE93B00642897 = {
 						CreatedOnToolsVersion = 8.2.1;
+						DevelopmentTeam = 4K2U4QJKGX;
 						ProvisioningStyle = Automatic;
 					};
 					214B90351E8DE93B00642897 = {
@@ -466,6 +467,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = 4K2U4QJKGX;
 				INFOPLIST_FILE = CircularScroll/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.miaocaiwang.CircularScroll;
@@ -477,6 +479,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = 4K2U4QJKGX;
 				INFOPLIST_FILE = CircularScroll/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.miaocaiwang.CircularScroll;
